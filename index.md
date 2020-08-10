@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Chapter
+title: OWASP Chapter Committee
 tags: example-tag
 pitch: A very brief, one-line description of your committee
 
