@@ -10,6 +10,6 @@
 - Justin Ferguson
 - Kyle Smith
 - Mohamed Alfateh
-- Vlad Stryan
+- Vlad Styran 
 - Vandana Verma - Global Board Member
 
