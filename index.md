@@ -1,17 +1,20 @@
 ---
 
 layout: col-sidebar
-title: OWASP Chapter Committee
+title: OWASP Gloal Chapter Committee
 tags: example-tag
-pitch: A very brief, one-line description of your committee
+pitch: Help all OWASP Chapters to succeed
 
 ---
 
-This is an example of a Committee page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+**Mission Statement:**
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+To provide the support and guidance required by the local chapters to thrive and contribute to the overall mission and goals of OWASP.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+**Objectives and Tasks**:
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
+  - Provide chapters with useful resources to help them succeed
+  - Help individuals and the community in getting more from their local OWASP Chapters
+  - Ensure as many Chapters as possible are healthy and active
+  - Chapter Leader Handbook Update
+  - Assist OWASP staff in operational processes of: New Chapter Creation, Reviving Inactive Chapters, Cleaning up Defunct Chapters
