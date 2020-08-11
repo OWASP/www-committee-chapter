@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Gloal Chapter Committee
+title: OWASP Chapter Committee
 tags: example-tag
 pitch: Help all OWASP Chapters to succeed
 
