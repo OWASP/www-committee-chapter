@@ -1,2 +1,4 @@
-### Chapter Information
-* add something here
+### Committee Information
+**Social Links**
+* Slack Channel
+* TBD
