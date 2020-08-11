@@ -1,11 +1,12 @@
 ---
-title: Example
+title: Activities
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Example
+## Activities
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+10-August-2020 Inaugural Meeting (minutes & recording will be published soon)
+
