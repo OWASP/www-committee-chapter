@@ -4,7 +4,7 @@ displaytext: Resources For Chapters
 layout: null
 tab: true
 order: 2
-tags: resources
+tags: chapters-committee
 ---
 
 ## Resources For Chapters
