@@ -14,4 +14,8 @@ tags: chapters-committee
 * Event Management
 * Sponsors
 * Speakers
+* Stickers
+* Postcards
+* Leaflets
+* Banners
 * Merchandise
