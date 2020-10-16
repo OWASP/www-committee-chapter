@@ -1,13 +1,13 @@
 ---
 title: resources_for_chapters
 displaytext: Resources For Chapters
-layout:  null
+layout: null
 tab: true
 order: 2
 tags: resources
 ---
 
 ## Resources For Chapters
-  A reporsitory of useful resources for Chapters
+  A repository of useful resources for Chapters
 
 
