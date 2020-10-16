@@ -8,7 +8,7 @@ tags: chapters-committee
 ---
 
 ## Resources For Chapters
-  A repository of useful resources for Chapters can be found [here](https://github.com/OWASP/www-committee-chapter/tree/master/resources/presentations)
+  A repository of useful resources for Chapters can be found [here](https://github.com/OWASP/www-committee-chapter/tree/master/resources)
 
 * Presentations
 * Event Management
