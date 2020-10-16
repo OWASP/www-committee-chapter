@@ -8,6 +8,6 @@ tags: resources
 ---
 
 ## Resources For Chapters
-
+  A reporsitory of useful resources for Chapters
 
 
