@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Chapter Committee
-tags: example-tag
+tags: chapters
 pitch: Help all OWASP Chapters to succeed
 
 ---
