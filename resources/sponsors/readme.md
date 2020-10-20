@@ -1,1 +1,1 @@
-List of OWASP Global Sponsors
+List of many OWASP Global Sponsors (current and past) to help Chapters to find sponsors
