@@ -1,2 +1,2 @@
-## Repository of vrious useful Resources For OWASP Chapters
+## Repository of various useful Resources For OWASP Chapters
 
