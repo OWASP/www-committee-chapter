@@ -18,10 +18,16 @@ A: Raise a ticket in JIRA: https://owasporg.atlassian.net/servicedesk/customer/p
 
 ---
 
-Q: I am a Chapter Leader and an OWASP paid member - How do I get an owasp.org e-meil address?
+Q: I am a Chapter Leader and an OWASP paid member - How do I get an owasp.org e-mail address?
 
 A: Raise a ticket in JIRA: https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72
 
+
+---
+
+Q: I want to run online meetings using Zoom, but free Zoom has a 40-minute limit. How do I get a Zoom Pro Account for my OWASP Chapter?
+
+A: OWASP provides shared Zoom Pro accounts. Raise a 'Shared Services' ticket in JIRA: https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72
 
 ---
 
