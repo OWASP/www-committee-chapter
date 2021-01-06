@@ -1,3 +1,3 @@
-### Historic OWASP Logos Archive
+## Historic OWASP Logos Archive
 
-Please DO NOT THESE LOGOS ANYMORE - they are provided for archivng purposes only
+Please DO NOT USE these logos anymore - they are provided here for archiving purposes only
