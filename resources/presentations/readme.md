@@ -1,1 +1,8 @@
-presentations
+## OWASP Presentation Templates
+
+* Google Slides: https://docs.google.com/presentation/d/1tbvT9WDb0q6RN9OgsAHBjN0QHNPZay8WSule74MzzZ4/edit?usp=sharing
+* Powerpoint: OWASP_Generic_Template_r1.potx  https://owasp.org/www-policy/branding-assets/OWASP_Generic_Template_r1.potx
+
+
+"Getting To Know OWASP" is a generic OWASP Introduction presentation which can be used at Chapter Meetings and other events to introduce OWASP and its activities, Chapters, Projects, Conferences 
+
