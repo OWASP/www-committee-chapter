@@ -13,3 +13,7 @@
 - Vlad Styran 
 - Vandana Verma - Global Board Member
 
+**Staff Contact**
+- Lisa Jones 
+
+
