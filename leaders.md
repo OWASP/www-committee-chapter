@@ -14,6 +14,7 @@
 - Vandana Verma - Global Board Member
 
 **Staff Contact**
-- Lisa Jones 
+- [Lisa Jones](mailto:lisa.jones@owasp.com)
+
 
 
