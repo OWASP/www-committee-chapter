@@ -1,4 +1,5 @@
 ### Committee Information
+**Questions or Need Assistance:** 
 * [Chapter Committee Group Email](mailto:chapter-committee@owasp.org)
 
 **Social Links**
