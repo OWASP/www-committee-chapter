@@ -1,5 +1,5 @@
 ### Committee Information
-Group Email: chapter-committee@owasp.org
+* [Chapter Committee Group Email(mailto:chapter-committee@owasp.org)
 
 **Social Links**
 * [YouTube Channel](https://www.youtube.com/channel/UCE2nt-oqRjwEAPSBtCtNVSw)
