@@ -9,7 +9,7 @@ pitch: Help all OWASP Chapters to succeed
 
 ## Mission Statement:
 
-**To provide the support and guidance required by the local chapters to thrive and contribute to the overall mission and goals of OWASP**
+**To provide the support and guidance required by all OWASP chapters to thrive and contribute to the overall mission and goals of OWASP**
 
 **Purpose**:
 
