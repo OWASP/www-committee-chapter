@@ -7,14 +7,26 @@ pitch: Help all OWASP Chapters to succeed
 
 ---
 
-**Mission Statement:**
+## Mission Statement:
 
-To provide the support and guidance required by the local chapters to thrive and contribute to the overall mission and goals of OWASP.
+**To provide the support and guidance required by the local chapters to thrive and contribute to the overall mission and goals of OWASP.••
 
-**Objectives and Tasks**:
+**Purpose**:
 
-  - Provide chapters with useful resources to help them succeed
-  - Help individuals and the community in getting more from their local OWASP Chapters
-  - Ensure as many Chapters as possible are healthy and active
-  - Chapter Leader Handbook Update
-  - Assist OWASP staff in operational processes of: New Chapter Creation, Reviving Inactive Chapters, Cleaning up Defunct Chapters
+ As one of the three legs that support OWASP (Foundation, Chapters, and Projects), Chapters are a critical part of moving the OWASP mission forward. The Chapter Committee's purpose is to help ensure that all OWASP Chapters are supported, per the Chapter Committee Scope. This includes Student Chapters and Regional Chapters
+Our target audience is OWASP Chapter Leaders and volunteers.
+
+**Scope**:
+- Promote Chapter activity, and provide mentorship and guidance to Chapter Leaders and other Chapter volunteers
+- Ensure as many Chapters as possible are healthy and active
+- Maintain the Chapter lifecycle within OWSP, including working with OWASP staff to improve procedures, and documenting guidelines 
+- Update and maintain the Chapter Handbook.
+- Provide all Chapters with a repository of useful Resources to help them succeed
+- Help individuals and the community in getting more from their local OWASP Chapters
+- Work with Chapters to help them encourage OWASP membership, participation, and contributions to OWASP projects and initiatives
+- Work with universities to provide guidance and help create and maintain Student Chapters 
+- Create a workable, operational, and scalable Regional Chapter model
+- Collaborate with other OWASP Committees and initiatives as needs present
+- Assist OWASP staff in operational processes of: New Chapter Creation, Reviving Inactive Chapters, Cleaning up Defunct Chapters
+- Provide first level dispute resolution for Chapters, which can be escalated to the OWASP Dispute Resolution process, or in severe cases, the Foundation, Compliance Committee, or Global Board
+- Advise the Board or Foundation on relevant bylaw or policy changes
