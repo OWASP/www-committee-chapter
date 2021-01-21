@@ -1,4 +1,4 @@
-### Leaders
+### Committee Officers
 * [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) - Chair
 * [Avi Douglen](mailto:avi.douglen@owasp.org) - Vice Chair
 * [Haral Tsitsivas](mailto:haral.tsitsivas@owasp.org) - Secretary
