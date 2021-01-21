@@ -6,7 +6,7 @@
 **Committee Members**
 - Anant Shrivastava
 - Azzeddine Ramrami
-- John DiLeo
+- John DiLeo (non-voting member)
 - Justin Ferguson
 - Kyle Smith
 - Mohamed Alfateh
