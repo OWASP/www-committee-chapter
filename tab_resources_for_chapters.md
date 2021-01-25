@@ -13,7 +13,7 @@ tags: chapters-committee
 * [Chapter Meeting Slide information for Leaders](https://github.com/OWASP/www-committee-chapter/tree/master/resources/presentations)
 * Event Management
 * Sponsors
-* Speakers
+* [Speakers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/owasp-speakers.md)
 * Stickers
 * Postcards
 * Leaflets
