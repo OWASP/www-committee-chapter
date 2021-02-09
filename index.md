@@ -30,3 +30,4 @@ Our target audience is OWASP Chapter Leaders and volunteers.
 - Assist OWASP staff in operational processes of: New Chapter Creation, Reviving Inactive Chapters, Cleaning up Defunct Chapters
 - Provide first level dispute resolution for Chapters, which can be escalated to the OWASP Dispute Resolution process, or in severe cases, the Foundation, Compliance Committee, or Global Board
 - Advise the Board or Foundation on relevant bylaw or policy changes
+
