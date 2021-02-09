@@ -1,5 +1,6 @@
 ---
-title: Meeting Minutes
+title: meeting_minutes
+displaytext: Meeting Minutes
 layout:  null
 tab: true
 order: 1
