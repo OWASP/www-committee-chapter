@@ -13,13 +13,13 @@ pitch: Help all OWASP Chapters to succeed
 
 **Purpose**:
 
- As one of the three legs that support OWASP (Foundation, Chapters, and Projects), Chapters are a critical part of moving the OWASP mission forward. The Chapter Committee's purpose is to help ensure that all OWASP Chapters are supported, per the Chapter Committee Scope. This includes Student Chapters and Regional Chapters
+ As one of the three legs that support OWASP (Foundation, Chapters, and Projects), Chapters are a critical part of moving the OWASP mission forward. The Chapter Committee's purpose is to help ensure that all OWASP Chapters are supported, as per the Chapter Committee Scope. This includes Student Chapters and Regional Chapters. 
 Our target audience is OWASP Chapter Leaders and volunteers.
 
 **Scope**:
 - Promote Chapter activity, and provide mentorship and guidance to Chapter Leaders and other Chapter volunteers
 - Ensure as many Chapters as possible are healthy and active
-- Maintain the Chapter lifecycle within OWSP, including working with OWASP staff to improve procedures, and documenting guidelines 
+- Maintain the Chapter lifecycle within OWASP, including working with OWASP staff to improve procedures, and documenting guidelines 
 - Update and maintain the Chapter Handbook.
 - Provide all Chapters with a repository of useful Resources to help them succeed
 - Help individuals and the community in getting more from their local OWASP Chapters
