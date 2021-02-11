@@ -12,17 +12,20 @@ tags: chapters-committee
 
 * [Chapter Meeting Slide information for Leaders](https://github.com/OWASP/www-committee-chapter/tree/master/resources/presentations)
 * [Speakers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/owasp-speakers.md)
-* Banners
-* Board Games
-* Books
-* Chapter Management Tips
-* CTF
-* Flyers
-* Logos
-* Posters
-* Presentations
-* Speakers
-* Sponsors
-* Stickers
-* T-Shirts
+
+---
+
+* [Banners](https://github.com/OWASP/www-committee-chapter/blob/master/resources/banners)
+* [Board Games](https://github.com/OWASP/www-committee-chapter/blob/master/resources/board-games)
+* [Books](https://github.com/OWASP/www-committee-chapter/blob/master/resources/books)
+* [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin)
+* [CTF](https://github.com/OWASP/www-committee-chapter/blob/master/resources/ctf)
+* [Flyers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/flyers)
+* [Logos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/logos)
+* [Posters](https://github.com/OWASP/www-committee-chapter/blob/master/resources/posters)
+* [Presentations](https://github.com/OWASP/www-committee-chapter/blob/master/resources/presentations)
+* [Speakers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers)
+* [Sponsors](https://github.com/OWASP/www-committee-chapter/blob/master/resources/sponsors)
+* [Stickers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/stickers)
+* [T-Shirts](https://github.com/OWASP/www-committee-chapter/blob/master/resources/t-shirts)
 * [Videos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/videos)
