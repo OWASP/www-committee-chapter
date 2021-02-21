@@ -9,9 +9,11 @@ tags: chapters-committee
 
 ## Resources For Chapters
   A repository of useful resources for Chapters can be found [here](https://github.com/OWASP/www-committee-chapter/tree/master/resources)
-
+  Most frequenlty requested: 
 * [Chapter Meeting Slide information for Leaders](https://github.com/OWASP/www-committee-chapter/tree/master/resources/presentations)
-* [Speakers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/owasp-speakers.md)
+* Speaker Bureau - [Speakers for Chapter events](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/owasp-speakers.md)
+* Video: Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
+* Video: OWASP Introduction & Membership Benefits: [view on YouTube](https://youtu.be/T2tlcZsYtko)
 
 ---
 
