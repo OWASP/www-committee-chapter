@@ -31,3 +31,8 @@ Our target audience is OWASP Chapter Leaders and volunteers.
 - Provide first level dispute resolution for Chapters, which can be escalated to the OWASP Dispute Resolution process, or in severe cases, the Foundation, Compliance Committee, or Global Board
 - Advise the Board or Foundation on relevant bylaw or policy changes
 
+**Committee Members**
+
+OWASP Chapter Committee is composed of seasoned and knowledgeable OWASP Chapter Leaders - you can see the current member names on the sidebar on the right ->
+
+All OWASP Committees are operating based upon the [OWASP Committees Policy](https://owasp.org/www-policy/operational/committees)
