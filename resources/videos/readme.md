@@ -4,7 +4,7 @@ Download Uncompresssed MP4 on [Google Drive here](https://drive.google.com/file/
 * Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
 
 #### OWASP YouTube Channels
-* OWASP Chapter Committee - useful cideo for Chapter Leaders: https://www.youtube.com/channel/UCE2nt-oqRjwEAPSBtCtNVSw
+* OWASP Chapter Committee - useful videos for Chapter Leaders: https://www.youtube.com/channel/UCE2nt-oqRjwEAPSBtCtNVSw
 * OWASP Video Project: https://videos.owasp.org/
 * OWASP GLOBAL YouTube Channel https://www.youtube.com/OWASPGlobal
 * OWASP Featured Chapter and Project Channels:  https://www.youtube.com/OWASPGlobal/channels
