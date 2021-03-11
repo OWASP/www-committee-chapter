@@ -33,3 +33,4 @@ tags: chapters-committee
 * [Stickers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/stickers)
 * [T-Shirts](https://github.com/OWASP/www-committee-chapter/blob/master/resources/t-shirts)
 * [Videos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/videos)
+* [Virtual Events - How To Run One](https://github.com/OWASP/www-committee-chapter/blob/master/resources/virtual-events)
