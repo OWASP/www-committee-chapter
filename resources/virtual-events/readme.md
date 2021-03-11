@@ -10,7 +10,8 @@ https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72
 
 You will receive credentials for a Leaders Zoom account: a username which looks like this: "leaders-zoom-x@owasp.org" and the password will be sent out separately (do check your Spam folder!).
 
-A recommended way to run the event is to schedule a Zoom meeting and invite just your chapter co-leaders and the speakers to the Zoom session, however the audience will watch the event on YouTube. This avoids some well-known problems with Zoom such as 'Zoom bombing' and also allows you to extend your reach. An event which is being live-streamed on YouTube can get a much wider world-wide audience potentially reaching thousands or even tens of thousand of viewers. Another advantage is that after your event is over YouTube will keep the recording of the event at the same URL it was live-streamed on.
+A recommended way to run the event is to schedule a Zoom meeting and invite just your chapter co-leaders and the speakers to the Zoom session, however the audience will watch the event on YouTube. This avoids some well-known problems with Zoom such as 'Zoom bombing' and also allows you to extend your reach. An event which is being live-streamed on YouTube can get a much wider world-wide audience potentially reaching thousands or even tens of thousands of viewers. 
+Another advantage is that after your event is over YouTube will keep the recording of the event at the same URL it was live-streamed on.
 
 Should you wish to edit the event recording and publish individual talks as separate videos on your channel - you can do that by downloading the recording from the Zoom Pro Cloud account (YouTube will also create a downloadable video recording of the event stream inside your YouTube channel / YouTube Studio some 24 hours after the end of the event)
 
