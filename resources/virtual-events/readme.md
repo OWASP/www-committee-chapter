@@ -25,7 +25,7 @@ The YouTube audience can ask questions using the Q&A panel on YouTube however fo
 4. Start your Zoom Meeting 10-15 minutes before the scheduled time of your event - make sure your speakers join the Zoom session as well and that they all have tested their audio/video and screen sharing with you
 5. When you are ready to go Live click on More/"..." menu in Zoom and select "Live On YouTube"
 7. On the next screen specify the name of your event as you want it to appear on YouTube Live on your YouTube Channel
-8. Click the "Go Live!"
+8. Click the "Go Live!" button
 9. That's it - your Chapter event is now LIVE ON YOUTUBE!
 
 ![Screen Shot 2021-03-11 at 00 00 24](https://user-images.githubusercontent.com/20112179/110720189-0f1e7100-8206-11eb-9669-852ca5e69b25.png)
