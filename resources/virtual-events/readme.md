@@ -39,7 +39,10 @@ The YouTube audience can ask questions using the Q&A panel on YouTube however fo
 
 #### Ending The Event
 
-When you click on "End Event For All" button in Zoom the live-streaming will stop and the recording will be available in the Zoom Cloud (inside Zoom website there is a Recording Menu when you are signed in)
+When you click on "End Event For All" button in Zoom the live-streaming will stop and the recording will be available in the Zoom Cloud (inside Zoom website there is a Recording Menu when you are signed in).
+
+YouTube will also keep the recording of the Live Stream under the "Live" tab of your YouTube channel and approximately after 24 hours the recording will also become available under the Videos tab. As a YouTube channel administrator you will be able to download the stream recording from YouTube as well (24 hours after the event end). Note that Zoom recording contains the recording of your Zoom session from the start of your Zoom meeting, however the YouTube recording will have the recording from the moment you clicked the "Go LIVE on YouTube" button. 
+
 
 
 
