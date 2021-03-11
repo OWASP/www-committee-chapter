@@ -19,7 +19,7 @@ The YouTube audience can ask questions using the Q&A panel on YouTube however fo
 
 ### How To Live Stream your Zoom Event on YouTube
 
-1. Make sure you have a YouTube Channel and that it is enabled for Live-Streaming (usually you need to verify your YouTube using an SMS message)
+1. Make sure you have a YouTube Channel and that it is enabled for Live-Streaming (usually you need to verify your YouTube account using an SMS message)
 2. Make sure that the attendees are given your YouTube Channel URL(e.g. In Meetup/mailing list/social media) and your speakers/panelists/co-leaders have been sent the Zoom Meeting invite.
 3. Log In to your YouTube account
 4. Start your Zoom Meeting 10-15 minutes before the scheduled time of your event - make sure your speakers join the Zoom session as well and that they all have tested their audio/video and screen sharing with you
