@@ -33,6 +33,6 @@ Our target audience is OWASP Chapter Leaders and volunteers.
 
 **Committee Members**
 
-OWASP Chapter Committee is composed of seasoned and knowledgeable OWASP Chapter Leaders - you can see the current committee officers and member names on the sidebar on the right ->
+OWASP Chapter Committee is composed of seasoned and knowledgeable OWASP Chapter Leaders - you can see the current committee officers and member names on the sidebar on the right &rarr;
 
 All OWASP Committees are governed under the [OWASP Committees Policy](https://owasp.org/www-policy/operational/committees)
