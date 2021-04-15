@@ -13,7 +13,7 @@ tags: chapters-committee
   Most frequenlty requested: 
   
 * [Chapter Meeting Slide information for Leaders](https://github.com/OWASP/www-committee-chapter/tree/master/resources/presentations)
-* Speaker Bureau - [Speakers for Chapter events](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/owasp-speakers.md)
+* Speaker Bureau - [Speakers for Chapter events](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
 * Video: Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
 * Video: OWASP Introduction & Membership Benefits: [view on YouTube](https://youtu.be/T2tlcZsYtko)
 
@@ -28,7 +28,7 @@ tags: chapters-committee
 * [Logos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/logos)
 * [Posters](https://github.com/OWASP/www-committee-chapter/blob/master/resources/posters)
 * [Presentations](https://github.com/OWASP/www-committee-chapter/blob/master/resources/presentations)
-* [Speakers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers)
+* [Speakers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
 * [Sponsors](https://github.com/OWASP/www-committee-chapter/blob/master/resources/sponsors)
 * [Stickers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/stickers)
 * [T-Shirts](https://github.com/OWASP/www-committee-chapter/blob/master/resources/t-shirts)
