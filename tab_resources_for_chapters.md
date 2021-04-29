@@ -14,7 +14,7 @@ tags: chapters-committee
   Most frequenlty requested:
   
 * [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
-  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017.md) (Needs update - please help!)
+  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017) (Needs update - please help!)
   * [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin) (please help combine this into Handbook)
 * [Chapter Meeting Slide information for Leaders](https://github.com/OWASP/www-committee-chapter/tree/master/resources/presentations)
 * Speaker Bureau - [Speakers for Chapter events](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
@@ -27,7 +27,7 @@ tags: chapters-committee
 * [Board Games](https://github.com/OWASP/www-committee-chapter/blob/master/resources/board-games)
 * [Books](https://github.com/OWASP/www-committee-chapter/blob/master/resources/books)
 * [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
-  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017.md) - outdated guidance only, not policy. Please help update this!
+  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017) - outdated guidance only, not policy. Please help update this!
   * [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin)
 * [CTF](https://github.com/OWASP/www-committee-chapter/blob/master/resources/ctf)
 * [Flyers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/flyers)
