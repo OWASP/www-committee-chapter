@@ -8,10 +8,14 @@ tags: chapters-committee
 ---
 
 ## Resources For Chapters
+
   A repository of useful resources for Chapters can be found [here](https://github.com/OWASP/www-committee-chapter/tree/master/resources)
   
-  Most frequenlty requested: 
+  Most frequenlty requested:
   
+* [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
+  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017.md) (Needs update - please help!)
+  * [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin) (please help combine this into Handbook)
 * [Chapter Meeting Slide information for Leaders](https://github.com/OWASP/www-committee-chapter/tree/master/resources/presentations)
 * Speaker Bureau - [Speakers for Chapter events](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
 * Video: Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
@@ -22,7 +26,9 @@ tags: chapters-committee
 * [Banners](https://github.com/OWASP/www-committee-chapter/blob/master/resources/banners)
 * [Board Games](https://github.com/OWASP/www-committee-chapter/blob/master/resources/board-games)
 * [Books](https://github.com/OWASP/www-committee-chapter/blob/master/resources/books)
-* [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin)
+* [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
+  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017.md) - outdated guidance only, not policy. Please help update this!
+  * [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin)
 * [CTF](https://github.com/OWASP/www-committee-chapter/blob/master/resources/ctf)
 * [Flyers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/flyers)
 * [Logos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/logos)
