@@ -20,4 +20,4 @@ tags: chapters-committee
 | 09-February-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1Qj6388-KmYy5rvsNYu-uhAojzwGDbuyo/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1ZavB2Qk5ILUbwNWH7f7sPjK9Vw2DnTdlRVH6L_GADNM/edit?usp=sharing)|
 | 09-March-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1bcHfgPl-T4aspxQI_9fEW79unxOLAM8_/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1H5K8zYiBK0-lXsfoYhuBaMesmMajQ7u6vIRut53HWS4/edit?usp=sharing)|
 | 13-April-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1SD9v2tnqbgxm-GRBGuazYoLXOzrvunJy/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1x_9P3uYXioZKnHmVtk6JjJtKRT1g6j3Zj8M12JKlmSU/edit?usp=sharing)|
-| 11-May-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1L-RHMIbkbDwzaJEY7lWKMJ1vD2eS67hw/view?usp=sharing) | [minutes]|
+| 11-May-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1L-RHMIbkbDwzaJEY7lWKMJ1vD2eS67hw/view?usp=sharing) | no minutes |
