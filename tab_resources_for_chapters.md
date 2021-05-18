@@ -13,13 +13,15 @@ tags: chapters-committee
   
   Most frequenlty requested:
   
-* [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
-  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017) (Needs update - please help!)
-  * [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin) (please help combine this into Handbook)
-* [Intro slides for Chapter Meetings](/www-committee-chapter/resources/presentations/owasp-chapter-intro-2021-may.pptx)
+* Intro slides for Chapter Meetings
+  * [Google Slides](https://docs.google.com/presentation/d/1HiM_wqMZ-Sk4dl9usq_r1B8PftIlE5pBBQTQZtFjV3Y/edit?usp=sharing)
+  * [PowerPoint](/www-committee-chapter/resources/presentations/owasp-chapter-intro-2021-may.pptx) 
 * Speaker Bureau - [Speakers for Chapter events](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
 * Video: Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
 * Video: OWASP Introduction & Membership Benefits: [view on YouTube](https://youtu.be/T2tlcZsYtko)
+* [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
+  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017) (Needs update - please help!)
+  * [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin) (please help combine this into Handbook)
 
 ---
 
