@@ -35,7 +35,7 @@ tags: chapters-committee
 * [Flyers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/flyers)
 * [Logos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/logos)
 * [Posters](https://github.com/OWASP/www-committee-chapter/blob/master/resources/posters)
-* [Presentations](https://github.com/OWASP/www-committee-chapter/blob/master/resources/presentations)-PPT slides of information for leaders to use for chapter meetings.
+* [Presentations](https://github.com/OWASP/www-committee-chapter/blob/master/resources/presentations) - PPT slides of information for leaders to use for chapter meetings.
 * [Speakers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
 * [Sponsors](https://github.com/OWASP/www-committee-chapter/blob/master/resources/sponsors)
 * [Stickers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/stickers)
