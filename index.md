@@ -21,7 +21,7 @@ Our target audience is OWASP Chapter Leaders and volunteers.
 - Ensure as many Chapters as possible are healthy and active
 - Maintain the Chapter lifecycle within OWASP, including working with OWASP staff to improve procedures, and documenting guidelines 
 - Update and maintain the Chapter Handbook.
-- Provide all Chapters with a repository of useful Resources to help them succeed
+- Provide all Chapters with a [repository of useful Resources](https://github.com/OWASP/www-committee-chapter/tree/master/resources/) to help them succeed
 - Help individuals and the community in getting more from their local OWASP Chapters
 - Work with Chapters to help them encourage OWASP membership, participation, and contributions to OWASP projects and initiatives
 - Work with universities to provide guidance and help create and maintain Student Chapters 
