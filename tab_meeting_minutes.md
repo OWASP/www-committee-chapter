@@ -9,6 +9,10 @@ tags: chapters-committee
 
 ## Chapter Committee Monthly Meeting Minutes and Recordings
 
+The OWASP Chapter Committee meets every second Tuesday of the month from 6pm till 7pm London time uinsg OWASP's Google Meet (Meeting ID: meet.google.com/yhc-xbkx-nnb)
+
+You can find the links to the meeting video recordings and meeting minutes below:
+
 | Date |Activity| Video   |Minutes   | 
 |------|-------|----------|----------|
 | 10-August-2020 | Inaugural Meeting | [video recording](https://drive.google.com/file/d/1-QWKmuVOcz_itAZWkpCtwPBcsq5jO1bG/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1mk6XH2UXgoN3NDj4NQ6b3XLlmgieWd4ZESNuMN-1x1M/edit?usp=sharing)|
