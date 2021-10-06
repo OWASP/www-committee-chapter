@@ -5,8 +5,7 @@ The easiest way to run a virtual event is by using Zoom.
 OWASP Foundation provides Zoom Pro Accounts for OWASP Chapter Leaders. Unlike free Zoom which many of us might already have, Zoom Pro provides 30-hour non-stop meetings and Live Streaming on YouTube (free Zoom accounts are usually limited to 40 minute meetings and no live-streaming).
 
 
-You need to request a Zoom Pro account by raising a 'Shared Services' ticket in JIRA:
-https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72
+You need to request a Zoom account by raising a 'Shared Services' ticket in JIRA:Click on [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 
 You will receive credentials for a Leaders Zoom account: a username which looks like this: "leaders-zoom-x@owasp.org" and the password will be sent out separately (do check your Spam folder!).
 
