@@ -41,7 +41,7 @@ tags: chapters-committee
 * [T-Shirts](https://github.com/OWASP/www-committee-chapter/blob/master/resources/t-shirts)
 * [Videos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/videos)
 * [Virtual Events - How To Run One](https://github.com/OWASP/www-committee-chapter/blob/master/resources/virtual-events)
-* [Repository of Speakers for chapter meetings](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
+* [Speaker Repository](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
    *  OWASP chapter or local event, speakers:
       - OWASP is vendor-neutral, and all vendors are welcome, but they should not be marketing their product or service as this will not go down well.
       - The use of OWASP slide templates is desirable but not required to speak at a chapter or local activity.
