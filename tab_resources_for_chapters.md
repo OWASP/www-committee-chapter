@@ -47,3 +47,12 @@ tags: chapters-committee
       - The use of OWASP slide templates is desirable but not required to speak at a chapter or local activity.
       - If you use OWASP's logo, branding, or trademarks in your talk or marketing, please comply with the OWASP branding guidelines.
       - Make your talk enjoyable for all by reviewing the OWASP Code of Conduct and avoid any behaviors or activities contrary to the CoC.
+ * Request to move your Meetup under the OWASP Foundation's Pro account.
+     * Invite OWASP Foundation (admin@owasp.com) to your Meetup
+     * OWASP will 'join' your Meetup
+     * The Organizer then must step down and make OWASP Foundation the Organizer
+     * OWASP will accept the request to become the Organizer
+     * OWASP will make the previous Organizer a Co-Organizer
+     * Unless you use your Organizer account to organize other Meetups, you should cancel your Meetup Organizer Subscription or you will continue to be charged monthly
+ 
+ 
