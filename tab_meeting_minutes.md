@@ -28,5 +28,8 @@ You can find the links to the meeting video recordings and meeting minutes below
 | 11-May-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1L-RHMIbkbDwzaJEY7lWKMJ1vD2eS67hw/view?usp=sharing) | no minutes 
 | 08-June-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1z3BRyqJa__w8kOUrh5SxZ_nyvRo_l1E5/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1xsrm5qglL_Z-2hZd09yyGnn6cVZzZ26fgaIvuuFtAA4/edit?usp=sharing)
 | 13-July-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1_ZIson2h367bx9x8Dq9Ot9xMgmO9-rdY/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1j3cu0ufkNuG-h8xbZpIi1J54LpWKS0DKURDfRPUsOAo/edit?usp=sharing)
-| 10-August-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1UYZatxgjsd6rtvp2khDIRrJ7UmXd-DE0/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1xSDnF-7OTtdBCcAFDv-DJKVCmQSZOKpI8Fdsx6g_4e4/edit?usp=sharing)
+| 10-August-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1UYZatxgjsd6rtvp2khDIRrJ7UmXd-DE0/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1xSDnF-7OTtdBCcAFDv-DJKVCmQSZOKpI8Fdsx6g_4e4/edit?usp=sharing) 
+| 14-September-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/1yW1qasSEYR83im-0gxBrbcdIiDjpjxUr/view?usp=sharing) | [minutes](https://docs.google.com/document/d/12uYCt_bl6-DuhYgXr0Ma6fQYJHEUuHSMbRgkIRg0oHw/edit?usp=sharing)
+| 12-October-2021 | Monthly Meeting | [video recording](https://drive.google.com/file/d/16AE6Qq_7b6JxQFDl5lrdW3jNCm6GFW7k/view?usp=sharing) | [minutes](https://docs.google.com/document/d/1JsDidLrSypTy0-w8BNe_sqI6ooYNlR0d9y0Bg-54yFs/edit?usp=sharing)
+
 
