@@ -16,9 +16,22 @@ Should you wish to edit the event recording and publish individual talks as sepa
 
 The YouTube audience can ask questions using the Q&A panel on YouTube however for anonymous questions you could use something like sli.do website (you can simply signup/login to sli.do using your owasp.org Google account) 
 
+### How To Create a YouTube Channel For Your OWASP Chapter
+
+To create a YouTube channel for your Chapter make sure you are logged in to your OWASP Gmail account first and then follow the steps here:
+
+https://support.google.com/youtube/answer/1646861
+
+^This will create a YouTube channel using your name e.g. 'John Smith' . It will be associated with your owasp.org email account.
+
+Then follow the steps in the same Google Support article article for:
+"Create a channel with a business or other name " - use these steps to create a channel for a brand "OWASP YourChapter".
+
+Then you should be able to add your Chapter co-leaders as Channel Managers using Settings/Account/Channel Managers menu (they will need to have an owasp.org or GMail account).
+
 ### How To Live Stream your Zoom Event on YouTube
 
-1. Make sure you have a YouTube Channel and that it is enabled for Live-Streaming (usually you need to verify your YouTube account using an SMS message)
+1. Make sure you have a YouTube Channel and that it is enabled for Live-Streaming (usually you need to verify your YouTube account using an SMS message) - please visit: https://youtube.com/verify and https://youtube.com/features to check if your account is verified and live-streaming is enabled.
 2. Make sure that the attendees are given your YouTube Channel URL(e.g. In Meetup/mailing list/social media) and your speakers/panelists/co-leaders have been sent the Zoom Meeting invite.
 3. Log In to your YouTube account
 4. Start your Zoom Meeting 10-15 minutes before the scheduled time of your event - make sure your speakers join the Zoom session as well and that they all have tested their audio/video and screen sharing with you
@@ -47,7 +60,7 @@ YouTube will also keep the recording of the Live Stream under the "Live" tab of 
 
 ## Zoom Alternatives
 
-Many Chapters have been running their virtual events using platforms such as StreamYard and JITSI which both provide Live Streaming to YouTube in their freee plans, however you do need to be aware of their particiapnt and streaming limits. StreamYard limits free use to 20 hours per month and Jitsi limits YouTube Live-Streaming to 60 minutes on their free plan. Both embed their logos watermark into the streams. Please note that as of March 2021 Zoom is the only virtual platform officially provided by the OWASP Foundation to OWASP Chapters.
+Many Chapters have been running their virtual events using platforms such as *StreamYard* and *JITSI* which both provide Live Streaming to YouTube in their freee plans, however you do need to be aware of their particiapnt and streaming limits. StreamYard limits free use to 20 hours per month and Jitsi limits YouTube Live-Streaming to 60 minutes on their free plan. Both embed their logos watermark into the streams. Please note that as of March 2021 Zoom is the only virtual platform officially provided by the OWASP Foundation to OWASP Chapters.
 
 ---
 
