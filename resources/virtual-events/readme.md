@@ -31,11 +31,11 @@ Then you should be able to add your Chapter co-leaders as Channel Managers using
 
 ### How To Live Stream your Zoom Event on YouTube
 
-1. Make sure you have a YouTube Channel and that it is enabled for Live-Streaming (usually you need to verify your YouTube account using an SMS message) - please visit: https://youtube.com/verify and https://youtube.com/features to check if your account is verified and live-streaming is enabled.
-2. Make sure that the attendees are given your YouTube Channel URL(e.g. In Meetup/mailing list/social media) and your speakers/panelists/co-leaders have been sent the Zoom Meeting invite.
+1. Make sure you have a YouTube Channel and that it is enabled for Live-Streaming (usually you need to verify your YouTube account using an SMS message) - please visit: https://youtube.com/verify and https://youtube.com/features to check if your account is verified and live-streaming is enabled. Try the Live STream button and ensure that the privacy of the default live stream is set to "Public" (if you set it to "Unlisted" or "Private" then the streaming from Zoom will fail).
+2. Make sure that the event attendees are given your YouTube Channel URL(e.g. In Meetup/mailing list/social media) and your speakers/panelists/co-leaders have been sent the Zoom Meeting invite.
 3. Log In to your YouTube account
 4. Start your Zoom Meeting 10-15 minutes before the scheduled time of your event - make sure your speakers join the Zoom session as well and that they all have tested their audio/video and screen sharing with you
-5. Remmember to right-click on your speakers names in Zoom and make them co-hosts of the Zoom session, so they could share their screens during their talks/presentations
+5. Remember to right-click on your speakers names in Zoom and make them co-hosts of the Zoom session, so they could share their screens during their talks/presentations
 6. When you are ready to go Live click on More/"..." menu in Zoom and select "Live On YouTube"
 7. On the next screen specify the name of your event as you want it to appear on YouTube Live on your YouTube Channel
 8. Click the "Go Live!" button
@@ -44,6 +44,12 @@ Then you should be able to add your Chapter co-leaders as Channel Managers using
 ![Screen Shot 2021-03-11 at 00 00 24](https://user-images.githubusercontent.com/20112179/110720189-0f1e7100-8206-11eb-9669-852ca5e69b25.png)
 
 ![Screen Shot 2021-03-11 at 00 01 07](https://user-images.githubusercontent.com/20112179/110720197-134a8e80-8206-11eb-991b-bd0fdfbe6cb4.png)
+
+### Preparing A Scheduled YouTube Live Stream
+
+YouTube has a great feature where you can schedule a Live-stream in advance. You can set up a placeholder thumbnail image for the show, the stream date & time and YouTube will place a "Set Reminder" button on the video allowing potential viewers to set a reminder and be notified when the stream goes live. Scheduled live-stream also allows you to publish the live-stream URL in advance.
+
+In order to use this feature you need to configure the scheduled stream inside YouTube Studio and copy the Stream Key and Stream URL. Inside Zoom you will need to use "Custom Live Streaming Service" and paste the values of the Stream Key, Stream URL and the Live Stream URL (YouTube video URL of the live-stream). 
 
 #### During The Event
 
