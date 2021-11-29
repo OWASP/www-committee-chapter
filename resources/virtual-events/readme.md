@@ -66,7 +66,7 @@ YouTube will also keep the recording of the Live Stream under the "Live" tab of 
 
 ## Zoom Alternatives
 
-Many Chapters have been running their virtual events using platforms such as *StreamYard* and *JITSI* which both provide Live Streaming to YouTube in their freee plans, however you do need to be aware of their particiapnt and streaming limits. StreamYard limits free use to 20 hours per month and Jitsi limits YouTube Live-Streaming to 60 minutes on their free plan. Both embed their logos watermark into the streams. Please note that as of March 2021 Zoom is the only virtual platform officially provided by the OWASP Foundation to OWASP Chapters.
+Many Chapters have been running their virtual events using platforms such as *StreamYard* and *JITSI* which both provide Live Streaming to YouTube in their free plans, however you do need to be aware of their participant and streaming limits. StreamYard limits free use to 20 hours per month and Jitsi limits YouTube Live-Streaming to 60 minutes on their free plan. Both embed their logos watermark into the streams. Please note that as of March 2021 Zoom is the only virtual platform officially provided by the OWASP Foundation to OWASP Chapters.
 
 ---
 
