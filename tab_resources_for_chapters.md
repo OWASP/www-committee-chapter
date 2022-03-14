@@ -40,7 +40,7 @@ tags: chapters-committee
 * [Stickers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/stickers)
 * [T-Shirts](https://github.com/OWASP/www-committee-chapter/blob/master/resources/t-shirts)
 * [Videos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/videos)
-* [Virtual Events - How To Run One](https://github.com/OWASP/www-committee-chapter/blob/master/resources/virtual-events)
+* [Virtual Meetings or Activities - How To Run One](https://github.com/OWASP/www-committee-chapter/blob/master/resources/virtual-events)
 * [Speaker Repository](https://github.com/OWASP/www-committee-chapter/blob/master/resources/speakers/speakers-bureau.csv)
    *  OWASP chapter or local event, speakers:
       - OWASP is vendor-neutral, and all vendors are welcome, but they should not be marketing their product or service as this will not go down well.
