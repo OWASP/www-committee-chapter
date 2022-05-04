@@ -37,7 +37,8 @@ OWASP Chapter Committee is composed of seasoned and knowledgeable OWASP Chapter 
 
 All OWASP Committees are governed under the [OWASP Committees Policy](https://owasp.org/www-policy/operational/committees)
 
-**OWASP Chapter Committee Meeting**
+**OWASP Chapter Committee Monthly Meeting**
+
 The OWASP Chapter Committee meets on the second Tuesday of every month via [Zoom Meeting](https://us06web.zoom.us/j/81623902507) 
 
 
