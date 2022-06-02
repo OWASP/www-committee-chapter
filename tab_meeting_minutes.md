@@ -13,12 +13,6 @@ The OWASP Chapter Committee meets the second Tuesday of the month at 6 - 7pm Lon
 * Meeting ID: 816 2390 2507 Passcode: 24278377
 
 
-**Next Chapter Committee Meeting
-Listed in the OWASP Events Calendar:**
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=UTC&amp;src=aGw2Y2pnczZlcDFoN29uaXFndWV1MmJoYm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%239E69AF&amp;showNav=1&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;showDate=1&amp;hl=en&amp;mode=AGENDA" style="border:solid 1px #777" width="400" height="600" frameborder="0" scrolling="no"></iframe>
-
-
 **You can find the links to the meeting video recordings and meeting minutes below:**
 
 | Date |Activity| Video   |Minutes   | 
