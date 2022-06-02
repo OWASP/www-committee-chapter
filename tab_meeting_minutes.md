@@ -12,11 +12,6 @@ tags: chapters-committee
 The OWASP Chapter Committee meets the second Tuesday of the month at 6 - 7pm London time or 1 - 2 pm EST via [Zoom](https://us06web.zoom.us/j/81623902507)
 * Meeting ID: 816 2390 2507 Passcode: 24278377
 
-You can also find the meeting dates of the Chapter Commitee in the official OWASP Event Calendar:
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=UTC&src=aGw2Y2pnczZlcDFoN29uaXFndWV1MmJoYm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%239E69AF&showNav=1&showCalendars=0&showTabs=0&showPrint=0&showDate=1&hl=en&mode=AGENDA" style="border:solid 1px #777" width="400" height="600" frameborder="0" scrolling="no"></iframe>
-
-
 
 You can find the links to the meeting video recordings and meeting minutes below:
 
