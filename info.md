@@ -4,7 +4,7 @@
 
 **Social Links**
 * [OWASP Community Meetings Listings](https://owasp.org/www-community/meetings/)
-* [YouTube Channel](https://www.youtube.com/channel/UCE2nt-oqRjwEAPSBtCtNVSw)
+* [Chapter Committee YouTube Channel](https://www.youtube.com/channel/UCE2nt-oqRjwEAPSBtCtNVSw)
 * [Slack Channel #chapters-committee](https://app.slack.com/client/T04T40NHX/C010AF25WSZ/details/top)
 
 **Committee Members**
