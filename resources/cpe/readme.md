@@ -1,12 +1,11 @@
 ***CPE Certificates of Attendance***
 
-Attendance certificates are usually required by the professional cyber security organisations such as ISC2, ISSA, ISACA  as each time their member attends a seminar 
-it qualifies for Continuous Professional Education (CPE) points.
-CPE points that members of professional information security associations can earn when participating in different educational activities. 
-Each CPE "point" or credit equals one hour of learning activity. 
+Attendance certificates can be requested by the professional information security organisations such as ISC2, ISSA, ISACA during an audit of their members Continuous Professional Education (CPE) points.
 
-The benefit is that by accumulating CPE credits, attendees who are members of professional associations can maintain their eligibility to certifications. 
+Each CPE "point" or "credit" equals one hour of learning activity. 
 
-Please note that if you will be giving out Certificates of Attendance you should keep a copy of each certificate and also keep the attendance records (e.g. the attendee list with the names of people who attended ticked off) for a certain period of time (at least 12 months from the event).  
+It is not standard practice for OWASP to issue Certificates of Attendance for Chapter Meetings. Meeting attendees are still responsible for submitting their own CPEs and should only ask for a Certificate of Attendance in exception circumstances, for example when the meeting attendee is getting audited by ISC2 or other professional association which requires a proof of attendance. Chapter Leaders should ensure that they comply with locally applicable data protection regulations.  Chapter Leaders are not permitted to share member lists, event attendees, or private information with third parties. The attendance certificate can only be issued to the meeting attendee and not to a third party.
 
-You will find a template of a Certificate of Attendance of OWASP Chapter Meeting here: https://docs.google.com/document/d/1sXGAjqlefLctzw4ttK0x0OmK_iLjNOXDpOM6IWfR3SA/edit?usp=sharing
+Please note that if you will be issuing Certificates of Attendance you should keep a copy of each certificate and also keep the attendance records (e.g. the attendee list with the names of people who attended ticked off) for a certain period of time (at least 12 months from the event) and in a manner compliant with GDPR and locally applicable data protection regulations. The Collection Limitation Principle applies to all activities where personal information of participants is needed.
+
+You will find a sample template of a Certificate of Attendance of OWASP Chapter Meeting here: https://docs.google.com/document/d/1sXGAjqlefLctzw4ttK0x0OmK_iLjNOXDpOM6IWfR3SA/edit?usp=sharing
