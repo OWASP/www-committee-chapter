@@ -8,12 +8,6 @@
 * [Slack Channel #chapters-committee](https://app.slack.com/client/T04T40NHX/C010AF25WSZ/details/top)
 
 **Committee Members**
-- Anant Shrivastava
-- Azzeddine Ramrami
-- John DiLeo (non-voting member)
-- Justin Ferguson
-- Kyle Smith
-- Mohamed Alfateh
 - Avi Douglen – Global Board Member
 - Vandana Verma - Global Board Member
 
