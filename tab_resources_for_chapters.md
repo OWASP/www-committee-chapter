@@ -45,7 +45,7 @@ tags: chapters-committee
 * [Stickers](https://github.com/OWASP/www-committee-chapter/blob/master/resources/stickers)
 * [T-Shirts](https://github.com/OWASP/www-committee-chapter/blob/master/resources/t-shirts) & [OWASP Store](https://www.zazzle.com/store/owasp_foundation)
 * [Videos](https://github.com/OWASP/www-committee-chapter/blob/master/resources/videos)
-* [Virtual Meetings or Activities - How To Run One](https://github.com/OWASP/www-committee-chapter/blob/master/resources/virtual-events)
+* [Zoom Virtual Meetings or Activities - How To Run One](https://github.com/OWASP/www-committee-chapter/blob/master/resources/virtual-events)
  * Request to move your Meetup under the OWASP Foundation's Pro account.
      * Invite OWASP Foundation (admin@owasp.com) to your Meetup
      * OWASP will 'join' your Meetup
