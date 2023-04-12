@@ -14,4 +14,4 @@
 
 
 Staff Contact
-- [Lisa Jones](mailto:lisa.jones@owasp.com)
+- [Dawn Aitken](mailto:dawn.aitken@owasp.com)
