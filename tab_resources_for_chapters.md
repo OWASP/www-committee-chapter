@@ -15,7 +15,9 @@ tags: chapters-committee
   
 * Intro slides for Chapter Meetings
   * [Google Slides](https://docs.google.com/presentation/d/1HiM_wqMZ-Sk4dl9usq_r1B8PftIlE5pBBQTQZtFjV3Y/edit?usp=sharing) 
-  * [PowerPoint](/www-committee-chapter/resources/presentations/owasp-chapter-intro-2021-may.pptx) 
+  * [PowerPoint](/www-committee-chapter/resources/presentations/owasp-chapter-intro-2021-may.pptx)
+* [Getting to Know OWASP 2024](/www-committee-chapter/resources/presentations/Getting%20to%20know%20OWASP%202024.pptx)
+* [OWASP Brand Drive (Logos and Presentation Templates)](https://drive.google.com/drive/folders/0AM0V4eWq-RzNUk9PVA)
 * Video: Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
 * Video: OWASP Introduction & Membership Benefits: [view on YouTube](https://youtu.be/T2tlcZsYtko)
 * [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
