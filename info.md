@@ -8,10 +8,7 @@
 * [Slack Channel #chapters-committee](https://app.slack.com/client/T04T40NHX/C010AF25WSZ/details/top)
 
 **Committee Members**
-- Avi Douglen – Global Board Member
-- Vandana Verma - Global Board Member
-
-
+- Sam Stepanyan – Global Board Member
 
 Staff Contact
 - [Dawn Aitken](mailto:dawn.aitken@owasp.com)
