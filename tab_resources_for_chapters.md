@@ -11,11 +11,12 @@ tags: chapters-committee
 
   A repository of useful resources for Chapters can be found [here](https://github.com/OWASP/www-committee-chapter/tree/master/resources)
   
-  Most frequenlty requested:
+  Most frequently requested:
   
 * Intro slides for Chapter Meetings (September 2024)
-  * [Google Slides](https://docs.google.com/presentation/d/1ZQ2nXnHjKxvuhPe4Ry7GUsi74CBjCZvkUXORNJGU3Kc/edit?usp=sharing) 
+  * [Google Slides](https://docs.google.com/presentation/d/1ZQ2nXnHjKxvuhPe4Ry7GUsi74CBjCZvkUXORNJGU3Kc/edit?usp=sharing)
   * [PowerPoint](/www-committee-chapter/resources/presentations/OWASP%20Chapter%20Slides%20Template%20Sept%202024.pptx)
+  * [LibreOffice](/www-committee-chapter/resources/presentations/OWASP%20Chapter%20Slides%20Template%20Sept%202024.odp)
 * [Getting to Know OWASP 2024](/www-committee-chapter/resources/presentations/Getting%20to%20know%20OWASP%202024.pptx)
 * [OWASP Brand Drive (Logos and Presentation Templates)](https://drive.google.com/drive/folders/0AM0V4eWq-RzNUk9PVA)
 * Video: Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
@@ -55,5 +56,4 @@ tags: chapters-committee
      * OWASP will accept the request to become the Organizer
      * OWASP will make the previous Organizer a Co-Organizer
      * Unless you use your Organizer account to organize other Meetups, you should cancel your Meetup Organizer Subscription or you will continue to be charged monthly
- 
  
