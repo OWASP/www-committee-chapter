@@ -7,8 +7,3 @@
 * [Chapter Committee YouTube Channel](https://www.youtube.com/channel/UCE2nt-oqRjwEAPSBtCtNVSw)
 * [Slack Channel #chapters-committee](https://app.slack.com/client/T04T40NHX/C010AF25WSZ/details/top)
 
-**Committee Members**
-- Sam Stepanyan – Global Board Member
-
-Staff Contact
-- [Dawn Aitken](mailto:dawn.aitken@owasp.com)
