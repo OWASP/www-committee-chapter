@@ -9,7 +9,7 @@
 
 ### Additional Members
 - [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) – Global Board Member
-- [Haydon Corry](mailto:haydon.corry@owasp.org) - Staff Contact
+- [Hayden Corry](mailto:hayden.corry@owasp.org) - Staff Contact
 
 
 
