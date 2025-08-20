@@ -22,7 +22,8 @@ tags: chapters-committee
 * Video: Migrating OWASP Chapter Webpage to New OWASP Website: [view on YouTube](https://youtu.be/tEm-YCeQno0)
 * Video: OWASP Introduction & Membership Benefits: [view on YouTube](https://youtu.be/T2tlcZsYtko)
 * [Chapters Policy](https://owasp.org/www-policy/operational/chapters)
-  * [Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017) (Needs update - please help!)
+* [Chapter Handbook - draft WIP](</www-committee-chapter/resources/handbook/Chapter Handbook - Current Draft 2025.md>)
+<!---[Chapter Handbook - draft WIP](/www-committee-chapter/resources/handbook/chapter-handbook-2017) (Needs update - please help!)-->
   * [Chapter Management Tips](https://github.com/OWASP/www-committee-chapter/blob/master/resources/chapter_admin) (please help combine this into Handbook)
 
 ---
