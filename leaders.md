@@ -8,8 +8,9 @@
 * Mohamed Alfateh
 
 ### Liaisons
-- [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) – Global Board
+
 - [Hayden Corry](mailto:hayden.corry@owasp.org) - Staff 
+- [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) – Global Board
 
 
 
