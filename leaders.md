@@ -7,9 +7,9 @@
 * Tobias Glemser
 * Mohamed Alfateh
 
-### Additional Members
-- [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) – Global Board Member
-- [Hayden Corry](mailto:hayden.corry@owasp.org) - Staff Contact
+### Liaisons
+- [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) – Global Board
+- [Hayden Corry](mailto:hayden.corry@owasp.org) - Staff 
 
 
 
