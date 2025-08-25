@@ -3,12 +3,11 @@
 * [Edmond Momartin](mailto:edmond.momartin@owasp.org) - Vice Chair
 * [Garth Boyd](mailto:garth.boyd@owasp.org) - Secretary
   
-### Committee Members
+## Committee Members
 * Tobias Glemser
 * Mohamed Alfateh
 
-### Liaisons
-
+## Liaisons
 - [Hayden Corry](mailto:hayden.corry@owasp.org) - Staff 
 - [Sam Stepanyan](mailto:sam.stepanyan@owasp.org) – Global Board
 
