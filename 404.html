@@ -1,15 +1,95 @@
----
-
-title: 404 - Not Found
-layout: col-generic
-
----
-
-<div class="container">
-  <p><img src="/assets/images/web/404-old-owasp.png"></p>
-  <h2>WHOA THAT PAGE CANNOT BE FOUND</h2>
-  <p>Try the <strong>SEARCH</strong> function in the main navigation to find something. If you are looking for chapter information, please see <a href="/chapters/">Chapters</a> for the correct chapter. For information about OWASP projects see <a href="/projects/">Projects</a>. For common attacks, vulnerabilities, or information about other community-led contributions see <a href="/www-community/">Contributed Content</a>.</p>
-  
-  <hr>
-  <p><strong>If all else fails you can search our <a href="https://wiki.owasp.org/">historical site</a>.</strong></p>
-</div>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OWASP Chapter Committee</title>
+  <meta name="description" content="OWASP Chapter Committee has moved. Find OWASP projects at owasp.org/projects.">
+  <link rel="canonical" href="https://owasp.org/projects">
+  <meta http-equiv="refresh" content="5; url=https://owasp.org/projects">
+  <meta name="robots" content="noindex">
+  <style>
+    :root {
+      --brand: #233e81;
+      --brand-hover: #1a2f63;
+      --accent: #53aae5;
+      --bg: #f4f6fb;
+      --card: #ffffff;
+      --text: #1b2333;
+      --muted: #5b6577;
+      --border: #e1e6f0;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --brand: #4a6fd1;
+        --brand-hover: #5d80dd;
+        --bg: #0e1424;
+        --card: #161e33;
+        --text: #e8ecf5;
+        --muted: #a3adc2;
+        --border: #263150;
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; }
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 16px;
+      background: var(--bg);
+      background-image: radial-gradient(circle at 20% 0%, rgba(83, 170, 229, 0.18), transparent 50%),
+                        radial-gradient(circle at 100% 100%, rgba(35, 62, 129, 0.18), transparent 50%);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.55;
+    }
+    main {
+      width: 100%;
+      max-width: 560px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-top: 4px solid var(--brand);
+      border-radius: 14px;
+      padding: 40px 36px;
+      box-shadow: 0 12px 40px rgba(16, 24, 48, 0.12);
+      text-align: center;
+    }
+    .eyebrow {
+      margin: 0 0 8px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    h1 { margin: 0 0 16px; font-size: 1.9rem; line-height: 1.2; }
+    p { margin: 0 0 24px; color: var(--muted); }
+    .button {
+      display: inline-block;
+      padding: 14px 28px;
+      border-radius: 10px;
+      background: var(--brand);
+      color: #fff;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background 0.15s ease, transform 0.15s ease;
+    }
+    .button:hover, .button:focus-visible { background: var(--brand-hover); transform: translateY(-1px); }
+    .button:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+    .url { display: block; margin-top: 20px; font-size: 0.85rem; color: var(--muted); word-break: break-all; }
+    .url a { color: inherit; }
+    .note { margin: 20px 0 0; font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="eyebrow">OWASP Foundation</p>
+    <h1>OWASP Chapter Committee has moved</h1>
+    <p>This site is no longer maintained. Find OWASP projects and resources on owasp.org.</p>
+    <a class="button" href="https://owasp.org/projects">Go to OWASP Projects &rarr;</a>
+    <span class="url"><a href="https://owasp.org/projects">owasp.org/projects</a></span>
+    <p class="note">You will be redirected automatically in a few seconds.</p>
+  </main>
+</body>
+</html>
